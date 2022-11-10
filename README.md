@@ -12,6 +12,8 @@ Analysis Results:
 Summary:
 The data that was provided for this analysis was comprehensive. As previously stated in the findings, it was discovered that the Rural areas while having the lowest amount of overhead ultimately yielded the highest fares. This can be due to several factors such as fewer competing drivers and the longer distances that the drivers need to cover. The following recommendations should aid the company in increasing its revenue stream:
 
-•	Increase the charge per mile for shorter trips specifically in the suburban and urban cities. 
+•	Increase the charge per mile for shorter trips specifically in the suburban and urban cities.
+
 •	Implement demand pricing specifically in suburban and urban cities. 
+
 •	Change the type of cars in each city type; for example, use electric vehicles in urban and suburban areas to reduce the overhead incurred by the drivers. For Rural areas use hybrid electric vehicles that have greater range than the electric vehicles for the longer distances. 
